@@ -1,4 +1,4 @@
-# NewsFeedResults-SampleData
+# NewsFeedResults-Data
 
 ### Description
 1. Data Folder
