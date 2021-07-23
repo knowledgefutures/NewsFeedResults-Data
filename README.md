@@ -1,4 +1,5 @@
 # NewsFeedResults-Data
+This data repo is under active development. Data may not be complete and should not yet be used for research purposes. (In other words, things are still a bit messy).  
 
 ### Description
 1. Data Folder
