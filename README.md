@@ -1,5 +1,5 @@
 # NewsFeedResults-Data
-This data repo is under active development and currently, data licensing belongs to the <a href="https://newsq.net/">News Quality Initiative (NewsQ)</a>. Data may not be complete and should not yet be used for research purposes. (In other words, things are still a bit messy, but thanks to your participation, we'll be able to create something that can be used among researchers).  
+This data repo is under active development and currently, data licensing belongs to the <a href="https://newsq.net/">News Quality Initiative (NewsQ)</a>. Data may not be complete and should not yet be used for research purposes. (In other words, things are still a bit messy, but thanks to your participation, we're working towards something that can be released and used among researchers).  
 
 ### Description
 1. Data Folder
