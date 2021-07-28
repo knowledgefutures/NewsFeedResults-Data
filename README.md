@@ -7,12 +7,9 @@ This data repo is under active development and currently, data licensing belongs
     1. filename format: %source%\_%(optional)zipcode%\_%datetime%.csv
     2. filename without zip has the default zip: 24060
     3. everyday data was collected twice.
-    4. five zipcode-wise data collection started on 07-06 evening.
-    5. Missing data for 07-04 evening and 07-09
+    4. five zipcode-wise data collection started on 07-06 evening. 2 albuquerque zip codes added on 07-21.
+    5. Missing data for 07-04 evening, 07-09, 07-27 morning
+    6. Twitter data missing for 07.20 and 07.21 due to an exception
 2. Screenshot Folder
     1. Collection Period: 07.05.2021 - 07.20.2021
     2. filename format: %source%\_%datetime%\_%(optional)page/scroll%.csv (forgot to add zip. to connect with corresponding data use datetime.)
-    3. filename without zip has the default zip: 24060
-    4. everyday data was collected twice.
-    5. five zipcode-wise data collection started on 07-06 evening.
-    6. Missing data for 07-04 evening and 07-09
