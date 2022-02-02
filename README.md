@@ -1,5 +1,5 @@
 # NewsFeedResults-Data
-This data repo is under active development and currently, data licensing belongs to the <a href="https://newsq.net/">News Quality Initiative (NewsQ)</a>. A license for invited users is below. 
+The data licensing of this data repo originally belonged to the <a href="https://newsq.net/">News Quality Initiative (NewsQ)</a>. A license for invited users is below. 
 
 ### Schema
 The schema is available <a href="https://docs.google.com/document/d/1-fmfHvsrQR3QTz7aMQu50vrU6YgBsxqbFU064knyZ3U/edit#"> here</a>. For more information about how this dataset works or was produced, email Momen Bhuiyan (momen [at] vt . edu). 
