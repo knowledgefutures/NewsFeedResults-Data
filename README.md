@@ -20,5 +20,6 @@ The schema is available <a href="https://docs.google.com/document/d/1_5VaOiFLzhM
 
 _Guidance on citing the Database_
 Because our signals are a limited snapshot of information across time, we recommend citing the Database as a whole rather than any individual platform provider.  A suggested citation format is as follows:
-Tow-Knight Center for Entrepreneurial Journalism at the City University of New York (“CUNY”) Craig Newmark Graduate School of Journalism and Hacks/Hackers. 2021. NewsQ News Feed Results [database]. 
+  _Tow-Knight Center for Entrepreneurial Journalism at the City University of New York (“CUNY”)_ 
+  _Craig Newmark Graduate School of Journalism and Hacks/Hackers. 2021. NewsQ News Feed Results [database]._ 
 
