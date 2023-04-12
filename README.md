@@ -1,5 +1,5 @@
 # NewsFeedResults-Data
-The data licensing of this repository originally belonged to the <a href="https://newsq.net/">News Quality Initiative (NewsQ)</a>, and was transferred to Knowledge Futures (hello [at] knowledgefutures . org) for archiving.
+The data licensing of this repository originally belonged to the <a href="https://newsq.net/">News Quality Initiative (NewsQ)</a>, and was transferred to Knowledge Futures for archiving.  (Contact: hello [at] knowledgefutures . org)
 
 ### Schema
 The schema is available <a href="https://docs.google.com/document/d/1_5VaOiFLzhM5Qu2ccWoX5BGkoeo50eQ2hUs5R2WXGvo"> here</a>. For more information about how this dataset works or was produced, email Momen Bhuiyan (momen [at] vt . edu). 
