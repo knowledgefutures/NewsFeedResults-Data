@@ -1,8 +1,8 @@
 # NewsFeedResults-Data
-The data licensing of this data repo originally belonged to the <a href="https://newsq.net/">News Quality Initiative (NewsQ)</a>. 
+The data licensing of this repository originally belonged to the <a href="https://newsq.net/">News Quality Initiative (NewsQ)</a>, and was transferred to Knowledge Futures (hello [at] knowledgefutures . org) for archiving.
 
 ### Schema
-The schema is available <a href="https://docs.google.com/document/d/1-fmfHvsrQR3QTz7aMQu50vrU6YgBsxqbFU064knyZ3U/edit#"> here</a>. For more information about how this dataset works or was produced, email Momen Bhuiyan (momen [at] vt . edu). 
+The schema is available <a href="https://docs.google.com/document/d/1_5VaOiFLzhM5Qu2ccWoX5BGkoeo50eQ2hUs5R2WXGvo"> here</a>. For more information about how this dataset works or was produced, email Momen Bhuiyan (momen [at] vt . edu). 
 
 ### Description
 1. Data Folder
